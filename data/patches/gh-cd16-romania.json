@@ -1,0 +1,126 @@
+{
+	"id": 1175,
+	"name": "Romania",
+	"description": "The country of Romania as it appears on a map with Bran Castle inside of it. \n\nBran Castle is a castle in Bran, 25 kilometres southwest of Brașov. It is a national monument and landmark in Transylvania. It it aslo known as \"Dracula's Castle\". ",
+	"links": {
+		"website": [
+			"https://en.wikipedia.org/wiki/Romania"
+		],
+		"subreddit": [
+			"okprietenretardat"
+		],
+		"discord": [
+			"placero"
+		]
+	},
+	"path": {
+		"151-241": [
+			[
+				-334,
+				92
+			],
+			[
+				-342,
+				97
+			],
+			[
+				-350,
+				110
+			],
+			[
+				-353,
+				115
+			],
+			[
+				-356,
+				115
+			],
+			[
+				-361,
+				118
+			],
+			[
+				-361,
+				119
+			],
+			[
+				-357,
+				123
+			],
+			[
+				-357,
+				127
+			],
+			[
+				-352,
+				131
+			],
+			[
+				-352,
+				136
+			],
+			[
+				-347,
+				139
+			],
+			[
+				-283,
+				142
+			],
+			[
+				-283,
+				138
+			],
+			[
+				-276,
+				134
+			],
+			[
+				-275,
+				129
+			],
+			[
+				-280,
+				125
+			],
+			[
+				-284,
+				127
+			],
+			[
+				-286,
+				127
+			],
+			[
+				-289,
+				125
+			],
+			[
+				-289,
+				110
+			],
+			[
+				-298,
+				98
+			],
+			[
+				-298,
+				93
+			],
+			[
+				-305,
+				95
+			],
+			[
+				-327,
+				95
+			]
+		]
+	},
+	"center": {
+		"151-241": [
+			-324,
+			118
+		]
+	}
+}
