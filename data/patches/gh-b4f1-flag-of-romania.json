@@ -1,0 +1,43 @@
+{
+	"id": 1845,
+	"name": "Flag of Romania",
+	"description": "Romania is a country in Eastern Europe",
+	"links": {
+		"website": [
+			"https://en.wikipedia.org/wiki/Romania",
+			"https://en.wikipedia.org/wiki/Flag_of_Romania"
+		],
+		"subreddit": [
+			"okprietenretardat"
+		],
+		"discord": [
+			"placero"
+		]
+	},
+	"path": {
+		"": [
+			[
+				-1499,
+				374
+			],
+			[
+				-1500,
+				487
+			],
+			[
+				-1442,
+				491
+			],
+			[
+				-1442,
+				374
+			]
+		]
+	},
+	"center": {
+		"": [
+			-1471,
+			432
+		]
+	}
+}
