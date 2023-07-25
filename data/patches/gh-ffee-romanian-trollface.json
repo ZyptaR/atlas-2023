@@ -1,0 +1,43 @@
+{
+	"id": -1,
+	"name": "Romanian Trollface",
+	"description": "Trollface is an image of a face with a mischievous smile. It is used to symbolize internet trolls, people who post inflammatory content on the internet with the intent of provoking others. This Trollface has the flag of Romania on it.",
+	"links": {
+		"subreddit": [
+			"okprietenretardat"
+		],
+		"discord": [
+			"placero"
+		]
+	},
+	"path": {
+		"": [
+			[
+				-294,
+				88
+			],
+			[
+				-277,
+				88
+			],
+			[
+				-277,
+				73
+			],
+			[
+				-296,
+				73
+			],
+			[
+				-296,
+				88
+			]
+		]
+	},
+	"center": {
+		"": [
+			-286,
+			81
+		]
+	}
+}
